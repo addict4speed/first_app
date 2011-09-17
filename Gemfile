@@ -20,6 +20,7 @@ gem 'jquery-rails'
 
 gem 'execjs'
 gem 'therubyracer'
+gem 'pg'
 
 # Use unicorn as the web server
 # gem 'unicorn'
