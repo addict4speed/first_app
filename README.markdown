@@ -94,7 +94,7 @@ mode. With gems, use <tt>sudo gem install ruby-debug</tt>. Example:
   end
 
 So the controller will accept the action, run the first line, then present you
-with a IRB prompt in the server window. Here you can do things like:
+with a IRB prompt in the server window. Here you can ido things like:
 
   >> @posts.inspect
   => "[#<Post:0x14a6be8
